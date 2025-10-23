@@ -8,7 +8,7 @@ print("Tablero jugador:")
 print(tablero_jugador)
 
 # Colocar los barcos
-flota = [4, 3, 3, 2, 2, 2, 1, 1, 1, 1]
+flota = [4, 3, 3, 2, 2, 2]
 colocar_barcos_aleatorios(tablero_jugador, flota)
 
 print("Tablero jugador con barcos:")

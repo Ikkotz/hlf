@@ -63,7 +63,7 @@ def turno_juego():
     tablero_j2 = tablero()
 
     # Colocar barcos de forma aleatoria
-    flota = [4, 3, 3, 2, 2, 2, 1, 1, 1, 1]
+    flota = [4, 3, 3, 2, 2, 2]
     colocar_barcos_aleatorios(tablero_j1, flota)
     colocar_barcos_aleatorios(tablero_j2, flota)
 
