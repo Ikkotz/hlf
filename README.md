@@ -4,11 +4,11 @@ Un sencillo juego de Hundir la Flota (Battleship) hecho en Python, jugable por c
 El jugador compite contra una IA básica que dispara aleatoriamente.
 
 Estructura del proyecto
-hundir_la_flota/
-│
-├── main.py          # Archivo principal — inicia el juego
-├── utils.py         # Funciones auxiliares: tablero, barcos, disparos, etc.
-└── README.md        # Este archivo
+hundir_la_flota
+
+main.py          # Archivo principal — inicia el juego
+utils.py         # Funciones auxiliares: tablero, barcos, disparos, etc.
+README.md        # Este archivo
 
 Requisitos
 
